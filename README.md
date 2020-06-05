@@ -5,8 +5,8 @@ This project is based on medical image diagnosis by building a chest X-ray class
  
 The workflow of the project is as follow:
 
--Data preparation through Visualizing data and Preventing data leakage
+-Data preparation through visualizing data and preventing data leakage
 
--Model Development through Addressing class imbalance and Leveraging pre-trained models using transfer learning
+-Model development through addressing class imbalance and leveraging pre-trained models using transfer learning
 
 -Evaluation using AUC and ROC curves
