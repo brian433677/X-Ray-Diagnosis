@@ -1,4 +1,4 @@
-# X-Ray Medical Diagnosis with Deep Learning
+**X-Ray Medical Diagnosis with Deep Learning**
 
 
 This project is based on medical image diagnosis by building a chest X-ray classifier using Keras.
